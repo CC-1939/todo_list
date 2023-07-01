@@ -1,1 +1,15 @@
-dgsfjkdfgkdflk;fkljfgjkljkldfgjklfdgjklfdg;sdfgjl da
+1.Библиотека для крассивого вывода и тд(я уже установил):
+    https://pypi.org/project/tabulate/
+    https://pyneng.readthedocs.io/ru/latest/book/12_useful_modules/tabulate.html
+
+
+    ну типо почитай где удобнее и понятнее для тебя
+
+2.Почитай про sqlite3 тут или загугли "python sqlite3 для чайников" и найди что получше для тебя:
+    https://pythonru.com/biblioteki/vvedenie-v-sqlite-python
+
+
+
+3. Ты пока читай, я самое жесткое сделаю, что попроще останется ты сделаешь, и тебе напишу когда деать
+    (не забывай писать коменты, желательно на английском)
+    (если чето не понятно тупо гугли непонятную функци)
