@@ -44,7 +44,7 @@ class ToDo:
 
         # podtverzhdenie
 
-        answer = input("do u agry? y/n:")
+        answer = input("do u agree? y/n:")
         if answer == "y": # if y add task at db
             values = [task_name, task_describe]
             try:
