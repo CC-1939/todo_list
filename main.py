@@ -59,14 +59,17 @@ class ToDo:
             print("pon")
     #this function will show tasks from db
     def show_database(self):
+        #write loogic of showing data
         pass
 
     #this funtion will update data in db
     def update_database(self):
+        #write logic to update data
         pass
 
     #this funtion will remove data from db
     def remove_task_from_database(self):
+        #write logic to remove data
         pass
 
 
